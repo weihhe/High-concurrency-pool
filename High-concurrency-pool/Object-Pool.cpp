@@ -31,7 +31,7 @@ public:
 			size_t tmp = sizeof(T) > sizeof(void*) ? sizeof(T) : sizeof(void*); // 至少给他一个指针的大小,便于回收
 			obj = (T*)_memory;
 			_memory += tmp; // 使用了空间后，要把_memory指向剩余内存的头部
-			_remainByte -= sizeof(tmp);
+			_remainByte -= tmp;
 		}
 		new (obj) T; // 定位new
 		return obj;
