@@ -3,12 +3,52 @@
   "WorkspaceRootPath": "E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6279F0AE-6346-4F89-BFF2-727F1A2C7B46}|High-concurrency-pool.vcxproj|E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\Object-Pool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6279F0AE-6346-4F89-BFF2-727F1A2C7B46}|High-concurrency-pool.vcxproj|solutionrelative:Object-Pool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6279F0AE-6346-4F89-BFF2-727F1A2C7B46}|High-concurrency-pool.vcxproj|E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6279F0AE-6346-4F89-BFF2-727F1A2C7B46}|High-concurrency-pool.vcxproj|solutionrelative:common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6279F0AE-6346-4F89-BFF2-727F1A2C7B46}|High-concurrency-pool.vcxproj|E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\CentralCache.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6279F0AE-6346-4F89-BFF2-727F1A2C7B46}|High-concurrency-pool.vcxproj|solutionrelative:CentralCache.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6279F0AE-6346-4F89-BFF2-727F1A2C7B46}|High-concurrency-pool.vcxproj|E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\UnitTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6279F0AE-6346-4F89-BFF2-727F1A2C7B46}|High-concurrency-pool.vcxproj|solutionrelative:UnitTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6279F0AE-6346-4F89-BFF2-727F1A2C7B46}|High-concurrency-pool.vcxproj|E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\CentralCache.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6279F0AE-6346-4F89-BFF2-727F1A2C7B46}|High-concurrency-pool.vcxproj|solutionrelative:CentralCache.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6279F0AE-6346-4F89-BFF2-727F1A2C7B46}|High-concurrency-pool.vcxproj|E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\ThreadCache.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6279F0AE-6346-4F89-BFF2-727F1A2C7B46}|High-concurrency-pool.vcxproj|solutionrelative:ThreadCache.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6279F0AE-6346-4F89-BFF2-727F1A2C7B46}|High-concurrency-pool.vcxproj|E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\size.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6279F0AE-6346-4F89-BFF2-727F1A2C7B46}|High-concurrency-pool.vcxproj|solutionrelative:size.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6279F0AE-6346-4F89-BFF2-727F1A2C7B46}|High-concurrency-pool.vcxproj|E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\Error.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6279F0AE-6346-4F89-BFF2-727F1A2C7B46}|High-concurrency-pool.vcxproj|solutionrelative:Error.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6279F0AE-6346-4F89-BFF2-727F1A2C7B46}|High-concurrency-pool.vcxproj|E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\ConcurrentAlloc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6279F0AE-6346-4F89-BFF2-727F1A2C7B46}|High-concurrency-pool.vcxproj|solutionrelative:ConcurrentAlloc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6279F0AE-6346-4F89-BFF2-727F1A2C7B46}|High-concurrency-pool.vcxproj|E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\object-pool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6279F0AE-6346-4F89-BFF2-727F1A2C7B46}|High-concurrency-pool.vcxproj|solutionrelative:object-pool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6279F0AE-6346-4F89-BFF2-727F1A2C7B46}|High-concurrency-pool.vcxproj|E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\ThreadCache.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6279F0AE-6346-4F89-BFF2-727F1A2C7B46}|High-concurrency-pool.vcxproj|solutionrelative:ThreadCache.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6279F0AE-6346-4F89-BFF2-727F1A2C7B46}|High-concurrency-pool.vcxproj|E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\Object-Pool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6279F0AE-6346-4F89-BFF2-727F1A2C7B46}|High-concurrency-pool.vcxproj|solutionrelative:Object-Pool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6279F0AE-6346-4F89-BFF2-727F1A2C7B46}|High-concurrency-pool.vcxproj|E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\FethFromCentralCache.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6279F0AE-6346-4F89-BFF2-727F1A2C7B46}|High-concurrency-pool.vcxproj|solutionrelative:FethFromCentralCache.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +58,166 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CentralCache.h",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\CentralCache.h",
+              "RelativeDocumentMoniker": "CentralCache.h",
+              "ToolTip": "E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\CentralCache.h",
+              "RelativeToolTip": "CentralCache.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-29T15:16:04.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Common.h",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\Common.h",
+              "RelativeDocumentMoniker": "Common.h",
+              "ToolTip": "E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\Common.h",
+              "RelativeToolTip": "Common.h",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-29T01:28:45.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThreadCache.h",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\ThreadCache.h",
+              "RelativeDocumentMoniker": "ThreadCache.h",
+              "ToolTip": "E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\ThreadCache.h",
+              "RelativeToolTip": "ThreadCache.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-29T01:30:43.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CentralCache.cpp",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\CentralCache.cpp",
+              "RelativeDocumentMoniker": "CentralCache.cpp",
+              "ToolTip": "E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\CentralCache.cpp",
+              "RelativeToolTip": "CentralCache.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-29T14:23:43.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Size.h",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\Size.h",
+              "RelativeDocumentMoniker": "Size.h",
+              "ToolTip": "E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\Size.h",
+              "RelativeToolTip": "Size.h",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-29T09:09:17.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.h",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\Error.h",
+              "RelativeDocumentMoniker": "Error.h",
+              "ToolTip": "E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\Error.h",
+              "RelativeToolTip": "Error.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-29T08:11:30.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConcurrentAlloc.h",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\ConcurrentAlloc.h",
+              "RelativeDocumentMoniker": "ConcurrentAlloc.h",
+              "ToolTip": "E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\ConcurrentAlloc.h",
+              "RelativeToolTip": "ConcurrentAlloc.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-29T12:02:42.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "object-pool.h",
               "DocumentMoniker": "E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\object-pool.h",
               "RelativeDocumentMoniker": "object-pool.h",
               "ToolTip": "E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\object-pool.h",
               "RelativeToolTip": "object-pool.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-08-28T14:02:34.408Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "UnitTest.cpp",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\UnitTest.cpp",
+              "RelativeDocumentMoniker": "UnitTest.cpp",
+              "ToolTip": "E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\UnitTest.cpp",
+              "RelativeToolTip": "UnitTest.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-29T12:04:26.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ThreadCache.cpp",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\ThreadCache.cpp",
+              "RelativeDocumentMoniker": "ThreadCache.cpp",
+              "ToolTip": "E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\ThreadCache.cpp",
+              "RelativeToolTip": "ThreadCache.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-29T02:29:20.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Object-Pool.cpp",
               "DocumentMoniker": "E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\Object-Pool.cpp",
               "RelativeDocumentMoniker": "Object-Pool.cpp",
               "ToolTip": "E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\Object-Pool.cpp",
               "RelativeToolTip": "Object-Pool.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-28T13:01:00.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FethFromCentralCache.cpp",
+              "DocumentMoniker": "E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\FethFromCentralCache.cpp",
+              "RelativeDocumentMoniker": "FethFromCentralCache.cpp",
+              "ToolTip": "E:\\\u9879\u76EE\\High-concurrency-pool\\High-concurrency-pool\\FethFromCentralCache.cpp",
+              "RelativeToolTip": "FethFromCentralCache.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-29T09:30:49.176Z",
               "EditorCaption": ""
             }
           ]

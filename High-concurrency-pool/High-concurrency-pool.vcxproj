@@ -127,10 +127,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="CentralCache.h" />
+    <ClInclude Include="Common.h" />
+    <ClInclude Include="ConcurrentAlloc.h" />
     <ClInclude Include="object-pool.h" />
+    <ClInclude Include="Size.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="CentralCache.cpp" />
+    <ClCompile Include="Error.h" />
+    <ClCompile Include="FethFromCentralCache.cpp" />
     <ClCompile Include="Object-Pool.cpp" />
+    <ClCompile Include="ThreadCache.cpp" />
+    <ClCompile Include="ThreadCache.h" />
+    <ClCompile Include="UnitTest.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

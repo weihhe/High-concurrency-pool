@@ -1,7 +1,11 @@
 ﻿  Object-Pool.cpp
+  ThreadCache.cpp
+  ThreadCache.h
+  UnitTest.cpp
+High-con.6279f0ae\x64\Release\ThreadCache.obj : warning LNK4042: object specified more than once; extras ignored
   Generating code
-  1 of 87 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+  0 of 138 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
+    0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   High-concurrency-pool.vcxproj -> E:\项目\High-concurrency-pool\High-concurrency-pool\x64\Release\High-concurrency-pool.exe
