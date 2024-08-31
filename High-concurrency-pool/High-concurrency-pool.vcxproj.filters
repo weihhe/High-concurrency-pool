@@ -47,9 +47,6 @@
     <ClCompile Include="Error.h">
       <Filter>Header Files</Filter>
     </ClCompile>
-    <ClCompile Include="FethFromCentralCache.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="UnitTest.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>

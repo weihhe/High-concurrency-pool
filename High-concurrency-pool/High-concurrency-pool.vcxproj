@@ -137,7 +137,6 @@
   <ItemGroup>
     <ClCompile Include="CentralCache.cpp" />
     <ClCompile Include="Error.h" />
-    <ClCompile Include="FethFromCentralCache.cpp" />
     <ClCompile Include="Object-Pool.cpp" />
     <ClCompile Include="PageCache.cpp" />
     <ClCompile Include="ThreadCache.cpp" />

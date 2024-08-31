@@ -1,5 +1,11 @@
-﻿  UnitTest.cpp
+﻿  CentralCache.cpp
+E:\项目\High-concurrency-pool\High-concurrency-pool\Size.h(81,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'CentralCache.cpp')
+  
+  UnitTest.cpp
 E:\项目\High-concurrency-pool\High-concurrency-pool\Size.h(81,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   (compiling source file 'UnitTest.cpp')
   
+  Generating Code...
+High-con.6279f0ae\x64\Debug\ThreadCache.obj : warning LNK4042: object specified more than once; extras ignored
   High-concurrency-pool.vcxproj -> E:\项目\High-concurrency-pool\High-concurrency-pool\x64\Debug\High-concurrency-pool.exe
