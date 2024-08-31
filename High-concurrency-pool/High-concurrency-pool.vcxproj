@@ -131,6 +131,7 @@
     <ClInclude Include="Common.h" />
     <ClInclude Include="ConcurrentAlloc.h" />
     <ClInclude Include="object-pool.h" />
+    <ClInclude Include="PageCache.h" />
     <ClInclude Include="Size.h" />
   </ItemGroup>
   <ItemGroup>
@@ -138,6 +139,7 @@
     <ClCompile Include="Error.h" />
     <ClCompile Include="FethFromCentralCache.cpp" />
     <ClCompile Include="Object-Pool.cpp" />
+    <ClCompile Include="PageCache.cpp" />
     <ClCompile Include="ThreadCache.cpp" />
     <ClCompile Include="ThreadCache.h" />
     <ClCompile Include="UnitTest.cpp" />

@@ -73,9 +73,39 @@ void TLSTest()
 	std::thread t2(Alloc_2);
 	t2.join();
 }
+void TestConcurrentAlloc1()
+{
+	void* p1 = ConcurrentAlloc(6);
+	void* p2 = ConcurrentAlloc(8);
+	void* p3 = ConcurrentAlloc(1);
+	void* p4 = ConcurrentAlloc(7);
+	void* p5 = ConcurrentAlloc(8);
+	//因为这里切分的时候是用一个大块内存切分的，所以p1~-p5可能是连续的
+	cout << p1 << endl;
+	cout << p2 << endl;
+	cout << p3 << endl;
+	cout << p4 << endl;
+	cout << p5 << endl;
+}
+
+void TestConcurrentAlloc2()
+{
+	for (size_t i = 0; i < 1024; ++i)
+	{
+		void* p1 = ConcurrentAlloc(6);//8k的页大小，一个对象8字节，刚好1024块
+		cout << p1 << endl;
+	}
+
+	void* p2 = ConcurrentAlloc(8);//超出了一页的承载量，再次申请页，在本次用例中，应该是span[127]
+	cout << p2 << endl;
+}
+
 int main()
 {
-	TestObjectPool();
-	TLSTest();
+	//TestObjectPool();
+	//TLSTest();
+	//ConcurrentAlloc(6);
+	//TestConcurrentAlloc1();//测试页内划分
+	TestConcurrentAlloc2();//测试当一页用完之后，再次申请页
 	return 0;
 }

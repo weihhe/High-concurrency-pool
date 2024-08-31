@@ -71,4 +71,35 @@ public:
 		}
 		exit(INDEX_ERROR);
 	}
+	static size_t NumMoveSize(size_t size)
+	{
+		if (size < 0)
+		{
+			exit(SIZE_ERROR);
+		}
+
+		int num = MAX_BYTES / size; 
+		if (num < 2)//对于大对象来说，至少分配两个
+			num = 2;
+
+		if (num > 512)//对于小对象来说，最多一次分配512个
+			num = 512;
+
+		return num;
+	}
+	//计算一次向系统获取几个页
+	//单个对象大小 8byte
+	//...
+	//单个对象 256kb
+	static size_t NumMovePage(size_t size)
+	{
+		size_t num = NumMoveSize(size);
+		size_t npage = num * size;//计算出的字节数
+
+		npage >>= PAGE_SHIFT;//右移13位，除以8k(页大小)
+		if (npage == 0)
+			npage = 1;//至少需要1个页
+
+		return npage;
+	}
 };
