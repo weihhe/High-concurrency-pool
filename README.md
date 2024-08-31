@@ -1,4 +1,6 @@
-<img title="" src="High-concurrency-pool/logo/logo.png" alt="High-concurrency-pool" width="296" data-align="center">
+<p align="center">
+  <img title="" src="High-concurrency-pool/logo/logo.png" alt="High-concurrency-pool" width="340">
+</p>
 
 [项目博客](https://weihehe.top/2024/08/27/%E6%B1%A0%E5%8C%96%E6%8A%80%E6%9C%AF/)：内包含一些更详细的内容。
 
